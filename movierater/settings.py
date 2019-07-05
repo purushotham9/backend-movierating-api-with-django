@@ -28,7 +28,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 
 ALLOWED_HOSTS = [
-'movie-1ratings.herokuapp.com/'
+'movie-1ratings.herokuapp.com'
 ]
 
 
