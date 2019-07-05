@@ -11,6 +11,9 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/2.2/ref/settings/
 """
 
+SECRET_KEY='wg&&&r$-s0hv8uy4mk2mb4-=*8m^6kej5@tr88ze+-x$#8^1$!'
+DEBUG=True
+
 import os
 from decouple import config
 from dj_database_url import parse as dburl
