@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d09e5d62-adfe-46c7-bf5d-fcfc20e8d113" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.evn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/requirements.dev.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/runtime.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="d09e5d62-adfe-46c7-bf5d-fcfc20e8d113" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/runtime.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="11" selection-start-column="11" selection-end-column="11" />
+              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -221,15 +209,16 @@
       <option name="presentableId" value="Default" />
       <updated>1562156558879</updated>
       <workItem from="1562156560635" duration="4348000" />
-      <workItem from="1562161937169" duration="22600000" />
+      <workItem from="1562161937169" duration="23014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26948000" />
+    <option name="totallyTimeSpent" value="27362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="895" y="23" width="1140" height="991" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24499089" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -443,7 +432,7 @@
     <entry file="file://$PROJECT_DIR$/runtime.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
