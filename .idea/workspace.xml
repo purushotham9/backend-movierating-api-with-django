@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d09e5d62-adfe-46c7-bf5d-fcfc20e8d113" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/requirements.dev.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movierater/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/movierater/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movierater/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/movierater/wsgi.py" afterDir="false" />
-    </list>
+    <list default="true" id="d09e5d62-adfe-46c7-bf5d-fcfc20e8d113" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/movierater/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="438">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#311#320#0" expanded="true" />
               </folding>
@@ -150,9 +142,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="937" />
+    <option name="x" value="895" />
     <option name="y" value="23" />
-    <option name="width" value="1098" />
+    <option name="width" value="1140" />
     <option name="height" value="991" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -243,17 +235,17 @@
       <option name="presentableId" value="Default" />
       <updated>1562156558879</updated>
       <workItem from="1562156560635" duration="4348000" />
-      <workItem from="1562161937169" duration="17599000" />
+      <workItem from="1562161937169" duration="18084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21947000" />
+    <option name="totallyTimeSpent" value="22432000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="937" y="23" width="1098" height="991" extended-state="0" />
+    <frame x="895" y="23" width="1140" height="991" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25473484" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24499089" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -416,8 +408,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/movierater/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="438">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="e#311#320#0" expanded="true" />
           </folding>
