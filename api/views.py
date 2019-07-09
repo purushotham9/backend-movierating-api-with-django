@@ -10,7 +10,7 @@ from django.contrib.auth.models import User
 # Create your views here.
 
 class UserViewSet(viewsets.ModelViewSet):
-    queryset = User.objects.all().order_by('-date_joined')
+    queryset = User.objects.all()
     serializer_class = UserSerializer
 
 class MovieViewSet(viewsets.ModelViewSet):
